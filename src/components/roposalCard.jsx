@@ -111,7 +111,7 @@ export default function ProposalCard() {
             </h1>
 
             <h2 className="text-3xl font-bold text-pink-600">
-              Will You Be My Girlfriend?
+              Jerin Tumi Ki amamr bow hobe ??
             </h2>
 
             <p className="mt-5 text-gray-600">
